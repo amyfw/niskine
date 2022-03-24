@@ -25,7 +25,7 @@ To make changes, create a new branch via
 ```
 git checkout -b <branch-name>
 ```
-and hack away. Add and commit your changes using `git add` and `git commit`.
+and hack away. Add and commit your changes using `git add <filename>` and `git commit`.
 Push the branch to your personal GitHub account with
 ```
 git push -u origin <branch-name>
